@@ -1,0 +1,12 @@
+Modular CSS refers to a methodology for organizing and structuring CSS in a way that promotes reusability and maintainability. It involves creating CSS styles in smaller, modular files, each dedicated to a specific component or feature. This helps in avoiding global namespace collisions, making it easier to manage styles as the application grows. Popular approaches to modular CSS include CSS Modules, styled-components, and BEM (Block Element Modifier). The key idea is to encapsulate styles so that they are more predictable and easier to maintain.
+
+The difference between JavaScript (JS) and JSX lies primarily in their syntax and usage:
+
+JavaScript (JS) is a programming language that allows you to create dynamic and interactive web content. It is the core language used in web development and runs in the browser or on the server (using Node.js).
+
+JSX (JavaScript XML) is a syntax extension for JavaScript, primarily used with React to describe what the UI should look like. JSX looks similar to HTML and allows you to write elements and components in a more readable way. It gets transpiled into regular JavaScript by tools like Babel before it runs in the browser.
+
+In summary, JS is the language itself, while JSX is a syntax that allows for a more declarative way to create UI components in a React application.
+
+
+
